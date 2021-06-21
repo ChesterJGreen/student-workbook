@@ -10,3 +10,5 @@ Read Building Blocks Of Web Development > GIT 101 and answer the following quest
 ## What is the difference between Git and GitHub
 
 ## Complete Week 1 Vocabulary
+
+## Afternoon Code:
