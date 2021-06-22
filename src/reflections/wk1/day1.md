@@ -1,6 +1,6 @@
 # Day 1
 
-
+## Daily Journal
 What I learned in coding school is .....
 Read Building Blocks Of Web Development > GIT 101 and answer the following questions
 
@@ -22,3 +22,5 @@ I believe that Git is the resource available to a computer and its network. Howe
 
 ## Afternoon Code:
 just setting up github and other necessary installations
+workbook setup on github
+https://chesterjgreen.github.io/blog/
