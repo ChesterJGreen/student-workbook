@@ -22,5 +22,5 @@ I believe that Git is the resource available to a computer and its network. Howe
 
 ## Afternoon Code:
 just setting up github and other necessary installations
-workbook setup on github
-https://chesterjgreen.github.io/blog/
+workbook setup on github<p>
+[My Blog](https://chesterjgreen.github.io/blog/)
