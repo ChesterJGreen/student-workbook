@@ -2,7 +2,7 @@
 ## Journal
 - Today we spent learning about bootstrap. It seems like a very useful tool to help with CSS and all the designing process. New keywords are helping me to navigate more area than when I was just using CSS. I spent a long time working on a clone website. The end result looked good to me except I struggled with spacing.
 - completed bootstrap challenges 1-3 on Udemy
- 
+- Apparently I keep messing up my connection to github and can't submit my most recent website creation 
 -----
 ### Questions
 
