@@ -5,7 +5,8 @@
 ### Questions
  Read Building Blocks Of Web Development > Wire-framing: A Comprehensive Guide and answer the following questions
 1. What is the purpose of wire-framing?
-
+- It is the preparation stage of executing the product. It allows the designers an opportunity to visualize and develop their ideas in the beginning stages. 
 2. What are the different levels of detail in wire-frames and why is each one useful?
-
+- Low fidelity, mid fidelity, high fidelity wireframes. Low fidelity can be hand written and contain no details but have a layout and ideas of what you want displayed. Mid fidelity wireframes are pieced together usually on a computer program and have spacing a little bit more squared away. The layout can be more specific to a specific device. High fidelity wireframes have a lot of details spelled out. Color schemes are initiated, placedholder pictures are displayed, and minimal functionality may be displayed as well. 
 3. Do you think wire-frames are worth the Time, Energy, and Effort that they require? Why or Why not?
+- Yes, I think they are worth the time, energy, and effort. While working on clone sites with static web pages I don't think they are as important, even though I do still see value in making the wireframe more detailed because of just copying the other website. But, if I was doing something from scratch I can definitely see the value in drawing up ideas of where to put things and what items would i want to display. It helps to organize thoughts and to see if some ideas will work or not. 
