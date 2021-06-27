@@ -15,7 +15,7 @@ make directory
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
 ```
-
+it sets up what the document will contain and what language it should recognize
 ```
 
 **4.** What does `HTML` stand for?
@@ -62,11 +62,11 @@ weight property
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-it reorients a row or column to from a vertical progression to a horizontal and vice versa. 
+it orients a row or column to from a vertical progression to a horizontal and vice versa. 
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-height, width
+height and width
 ```
