@@ -1,6 +1,8 @@
 # Day 6
 ## Journal
 We just turned in our first checkpoint this morning. That was a good experience. Although, I felt like I met all the requirements I was slightly worried about turning in my project. However, I did feel a sense of genuine concern that we simply tried rather than our efforts being forced to be perfect. I experienced a sense of relief and encouragement to know that as long as we try we should do just fine. That being said, moving into Javascript area has been a little difficult. My mind has felt a bit numb trying to pick up the different syntax styles and such. My mind eventually made the transition back into javascript jargon. 
+[javascript basics homework](https://chesterjgreen.github.io/js-tests-basics/)
+
 ## What is Scope ?
 - scope is the different levels of a document. The scope can be general in the sense of the entire document. Or scope can be more fine tuned to focus on the area of code block. 
 
