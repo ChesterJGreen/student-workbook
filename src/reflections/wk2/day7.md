@@ -6,8 +6,11 @@ This second day of javascript problems was very savage. I ended up doing fine on
 
 ---
 ## 1. What are the three ways to syntactically write a function? What are the differences in how the function acts (if any)?
-- 
+- function funcName(parameter) {code}
+- let funcName = function(parameter){code}
+- let funcName = (parameter) => {code}
 ## 2. What is the difference between Parameters and Arguments?
-- 
+- parameters are banana words or placeholders. arguments are the name of the array or object being plugged into the function
 ## 3. What are higher order functions? Can you provide an example?
-- 
+- When a function provides or uses another function it is a higher order function
+ex - array.prototype.map 
