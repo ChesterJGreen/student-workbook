@@ -7,10 +7,10 @@ Today was an interesting lesson. We turned in our checkpoints. I was disappointe
 ### Read Advancing with JS > ES6 modules and answer the following questions
 ---
 1. What problem does using exports solve?
-- 
+- fewer scripts to load, allowing the page to load faster. 
 2. How does export differ from export default?
-- 
+- export can export several methods/functions while export default only allows for one
 3. What is a benefit of using the Module System?
-- 
+- debugging becomes easier
 Complete Week 3 Vocabulary
 
