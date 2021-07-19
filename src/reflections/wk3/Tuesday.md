@@ -8,8 +8,8 @@ Everyday we just keep building on the previous day. It is pretty awesome in some
 ---
 
 1. What is the purpose of Encapsulation?
-- 
+- It helps to organize groups of code into the same location. Helping keep code cleaner and organized.
 2. What were some of the problems with closures and the underscore prefix?
-- 
+- they are awkward and controversial
 3. How do we create private variables in a ES6 Class? Why would you do this?
-- 
+- encapsulate it. to keep them private from users/hackers

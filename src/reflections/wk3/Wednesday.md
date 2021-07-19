@@ -8,8 +8,8 @@ Read Advancing with JS > An Intro to Javascript Proxy Objects and answer the fol
 
 ---
 1. What are the two common operations that we will set in the handler?
-- 
+- get and set
 2. What do you have to make sure you are doing with every Get to insure the value does not become undefined?
-- 
+- you have to run an object and a parameter through it
 3. What are some of the benefits of the proxy object that we are using in our structure for applications?
-- 
+- The user will not be able to mess with the object but use a temporary object established for the user. It also allows for more privacy in code. 

@@ -11,6 +11,6 @@ Today was an interesting lesson. We turned in our checkpoints. I was disappointe
 2. How does export differ from export default?
 - export can export several methods/functions while export default only allows for one
 3. What is a benefit of using the Module System?
-- debugging becomes easier
+- debugging becomes easier, easier to find where issues are originating from 
 Complete Week 3 Vocabulary
 
