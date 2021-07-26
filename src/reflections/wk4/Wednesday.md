@@ -1,6 +1,6 @@
 #7/21/2021
 
-I really enjoyed the spellbook lecture in class. We learned how to get from an api, post to an api, delete from an api and I'm not sure that we updated the api, but we definitely had a fun time learning. I learned that it is better to take notes on the order of how to do theses methods so that you can verify through the console or on the webpage that things are working properly. Before I was just taking notes as i saw fit and then realizing later that I didn't know the order and just had to hope i copied/translated the code perfectly to fit the project I was working on. I'm glad I discovered that writing api is about the order rather than the just doing the code. 
+I really enjoyed the spellbook lecture in class. We learned how to get from an api, post to an api, delete from an api and I'm not sure that we updated the api, but we definitely had a fun time learning. I learned that it is better to take notes on the order of how to do theses methods so that you can verify through the console or on the webpage that things are working properly. Before I was just taking notes as i saw fit and then realizing later that I didn't know the order and just had to hope i copied/translated the code perfectly to fit the project I was working on. I'm glad I discovered that writing api is about the order rather than the just doing the code. Here is a link to the [Pokemon Project](https://chesterjgreen.github.io/pokemonApi/)
 
 ---
 
