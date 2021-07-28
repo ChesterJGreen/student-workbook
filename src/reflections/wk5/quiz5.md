@@ -13,7 +13,7 @@ Post, Get, Put, Delete
 **3.** What does `ORM` stand for? Which `ORM` do we use when interacting with MongoDB
 <!-- enter you answer in the space below -->
 ```
-
+Object Relational Mapper. The ORm that we use is Mongoose
 ```
 **4.** Which two `HTTP` request types include a body?
 <!-- enter you answer in the space below -->
@@ -43,11 +43,11 @@ let Schema = ________.Schema;
 **8.** The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 <!-- enter you answer in the space below -->
 ```
-
+request, response
 ```
 **9.** 
 Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 <!-- enter you answer in the space below -->
 ```
-
+http://localhost3000?tag=winter
 ```
