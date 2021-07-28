@@ -1,6 +1,7 @@
 # 7/27/2021
 Daily Journal
 
+Today we learned how to start our own server with MongoDb. We had to set up our own server. We then went in and created a server side for our Greg's list web page. It was very interesting. The programming for the server side had a lot of code that was already set up and we are going to look into very few of those documents. We have to just learn how to drive the car without understanding how every little piece of machinery works. That's okay. We were able to set it up fairly easily. The code is very similar to when we set up our client side software to connect with apis. Here is the link to the same [client side](https://chesterjgreen.github.io/late-summer21-gregslist-node/), but a server is also connected that I established myself.
 
 
 ---
