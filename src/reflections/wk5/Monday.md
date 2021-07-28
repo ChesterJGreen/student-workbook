@@ -1,6 +1,6 @@
 # 7/26/2021
 
-Today we learned about Node. The structure of the code holds the same but some of the details about how to use things changes a bit. Not completely, but enough to have to make sure you learn the new code. The CRUD principles remain the same. Also, the is the first time we have set up our own server which uses localhost 3000 rather than the localhost 8080 like we used to. 
+Today we learned about Node. The structure of the code holds the same but some of the details about how to use things changes a bit. Not completely, but enough to have to make sure you learn the new code. The CRUD principles remain the same. Also, the is the first time we have set up our own server which uses localhost 3000 rather than the localhost 8080 like we used to. Here is a link to the project we did called [BurgerShak](https://chesterjgreen.github.io/burgerShak/) It's all server work, so I don't think it will show much in the web browser. So, here's a link to the [respository](https://github.com/ChesterJGreen/burgerShak)
 
 ---
 Read Servers with Node/Express > Using Query Parameters and answer the following questions
