@@ -8,10 +8,10 @@ Read Servers with Node/Express > MongoDb Relationships and answer the following 
 
 ---
 1. In simple terms what is a sub-document?
-- 
+- they are documents nested within other documents
 
 2. When might you use a sub-document?
--
+- when you have a key that has multiple inputs. like a collection of moves on a character
 
 3. How do you add to a collection of sub-documents? What about editing them?
-- 
+-  to edit, use the find one method on the array then edit is then save the array. to add, use the find one method then the push method to add to the end and then save it. 
