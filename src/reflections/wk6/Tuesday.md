@@ -12,4 +12,4 @@ Read Frontend Frameworks with Vue3 > How to use Props in Vue and answer the foll
 2. What are props used for?
 - to pass a value from your component into a child component
 3. Where can props be used or accessed?
-- 
+- they can be used in the template or accessed in methods, computed props, or other javascript
