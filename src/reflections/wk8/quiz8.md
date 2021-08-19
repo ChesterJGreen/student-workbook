@@ -33,7 +33,7 @@ make sure it is targeting your production branch
 **7.** Why is branching important to version control?
 <!-- enter you answer in the space below -->
 ```
-
+It allows you to double and triple check code before it reaches production at different levels
 ```
 **8.** When should code review happen?
 <!-- enter you answer in the space below -->
@@ -43,5 +43,5 @@ make sure it is targeting your production branch
 **9.** What is the term used to define combining two branches?
 <!-- enter you answer in the space below -->
 ```
-
+merging 
 ```
