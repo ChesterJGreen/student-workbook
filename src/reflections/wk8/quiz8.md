@@ -13,22 +13,22 @@
 **3.** What command will ensure that your Vue code is compiled properly for deployment?
 <!-- enter you answer in the space below -->
 ```
-
+npm run build
 ```
 **4.** _______ are used to provide your application with specific data based on it's environment. For example: connections strings, private keys or port. Fill in the blank.
 <!-- enter you answer in the space below -->
 ```
-
+.env files
 ```
 **5.** What are the two ways to view the logs from your Heroku app.
 <!-- enter you answer in the space below -->
 ```
-
+MORE -> log items and 
 ```
 **6.** How do you update an app already deployed on Heroku?
 <!-- enter you answer in the space below -->
 ```
-
+make sure it is targeting your production branch 
 ```
 **7.** Why is branching important to version control?
 <!-- enter you answer in the space below -->
