@@ -15,7 +15,7 @@ Read Dotnet WebAPI's > Welcome to SQL, and answer the following questions
 CREATE TABLE characters(
   id int NOT NULL,
   name VARCHAR(255), NOT NULL,
-  age VARCHAR(255),
+  age INT NOT NULL,
   description VARCHAR(255)
 );
 3. What is the difference between the following statements:
