@@ -1,0 +1,9 @@
+9/15/2021
+
+Daily Journal
+
+Today has been a hot mess. I ended yesterday feeling great about where I was in my code. Today, I had a technical interview with Mark. I felt like it ended up going really well. He isn't too worried with most people in our class on the logic. I needed some pointers on how to better explain my pseudo code. I didn't realize it, but I need to write down to the side of my problem all the notes that I have observed while deciding on my course of action. If i decide i need to do a for loop then I should write down that I am going to do a for loop. He gave very meaningful and helpful feedback. 
+
+The rollercoaster ride of emotions that I felt today came from the thoughts that I had yesterday when I finished. I felt like I was slightly ahead of the expected outcome. I did a lot of work today, but the only work that I felt like I had to show for it was that I had the profile page started. That was frustrating especially since I took my project to get graded for the first time with Mick. He was very kind about all the things I was lacking which we both knew that I was lacking. But, when I walked out I felt like I was much further behind than I had anticipated. 
+
+I did continue working on my project at home and ended up almost finishing my profile page and getting my vault page half done... So back up again. I realize now that I had completed quite a few things. I created 3 different modals and got some buttons that were pushing to other pages. So, I know I did several things today, I just hoped I would be closer to finished than this. I think I am still on track. I just don't want to be waiting until friday at 5pm to turn in the completed work. Friday morning is less stressful than friday at 5pm. 
